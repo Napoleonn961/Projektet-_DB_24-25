@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\RM3\RM3\bin\Debug\net8.0\RM3.exe
+C:\Users\user\OneDrive\Desktop\RM3\RM3\bin\Debug\net8.0\RM3.deps.json
+C:\Users\user\OneDrive\Desktop\RM3\RM3\bin\Debug\net8.0\RM3.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\RM3\RM3\bin\Debug\net8.0\RM3.dll
+C:\Users\user\OneDrive\Desktop\RM3\RM3\bin\Debug\net8.0\RM3.pdb
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\RM3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\RM3.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\RM3.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\RM3.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\RM3.dll
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\refint\RM3.dll
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\RM3.pdb
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\RM3.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\RM3\RM3\obj\Debug\net8.0\ref\RM3.dll
